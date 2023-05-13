@@ -6,7 +6,7 @@ Repositório destinado a guardar as atividades realizadas na disciplina de siste
 
 ### Client/Server com sockets
 
-**Dupla:** Lucas Bessa e Natalia Almada
+Aluno: Kevin Willyn
 
 ### Middleware com RabbitMQ
 
